@@ -1,6 +1,6 @@
 public class HelloCI {
     public static void main(String[] args) {
-            System.out.println("Hello from Jenkins CI/CD Demo - DevOps Experiment 3");
+                    System.out.println("Hello from Jenkins CI/CD Demo - DevOps Experiment 3 (auto-build test #2)");
                 }
                 }
                 
